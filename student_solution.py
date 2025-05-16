@@ -1,5 +1,4 @@
-def sum_even_numbers(...):
-    # TODO: implement this
+def sum_even_numbers(lst):
     pass
 
 # test trigger
