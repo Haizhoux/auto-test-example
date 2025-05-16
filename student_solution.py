@@ -1,5 +1,5 @@
 def sum_even_numbers(lst):
-    pass
+    return sum(x for x in lst if x % 2 == 0)
 
 # test trigger
 # test trigger2
